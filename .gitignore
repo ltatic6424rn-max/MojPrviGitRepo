@@ -28,3 +28,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignoriši IDE foldere i class fajlove
+.idea/
+*.iml
+*.class
