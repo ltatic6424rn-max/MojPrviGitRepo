@@ -10,4 +10,7 @@ public class Calculator {
     public static int oduzmi(int a, int b) {
         return a - b;
     }
+    public static int mnozi(int a, int b) {
+        return a * b;
+    }
 }
